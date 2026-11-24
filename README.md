@@ -1,1 +1,1 @@
-"# Offensive Security Notes" 
+Offensive Security Notes
